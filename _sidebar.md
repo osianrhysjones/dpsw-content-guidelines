@@ -55,11 +55,6 @@
   * [Weeknotes](formatting-and-patterns/weeknotes.md)
   * [Community of practice](formatting-and-patterns/community-of-practice.md)
 
-* **Content model**
-  * [Content types](content-model/content-types.md)
-  * [Website components](content-model/components.md)
-  * [Website taxonomy](content-model/taxonomy.md)
-
 * **Bilingual glossary**
   * [A–Z glossary](glossary/glossary.md)
 
