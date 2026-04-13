@@ -2,9 +2,9 @@
 
 ## Steps
 
-1. Check the [content patterns](../writing-designing-and-pulishing-content/content-formatting-and-patternsmd.md) for an existing format to follow
-2. Understand what [content types](../content-typesmd.md) apply
-3. Check the [writing guidelines](../writing-designing-and-pulishing-content/writing-for-cdpsmd.md) and [style guides](../../content-guidelinesmd.md)
+1. Check the [content patterns](../writing-designing-and-pulishing-content/content-formatting-and-patterns.md) for an existing format to follow
+2. Understand what [content types](../content-types.md) apply
+3. Check the [writing guidelines](../writing-designing-and-pulishing-content/writing-for-cdps.md) and [style guides](../../content-guidelines.md)
 4. Consider how it will be created bilingually: you might want to trio write, trio edit, or send for translation depending on your context
 5. Draft content by following the guidance and patterns available
 6. Follow the publishing workflow for the content type. If you’re unsure, contact Osian Jones.

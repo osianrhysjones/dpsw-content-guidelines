@@ -75,7 +75,7 @@ Think about what your content needs to do and how your information architecture 
 
 ### **Content model**
 
-Set out clear definitions for the different [content types](../content-typesmd.md) you'll be producing to meet those user needs.
+Set out clear definitions for the different [content types](../content-types.md) you'll be producing to meet those user needs.
 
 Content types are categories for groups of content items with shared attributes (for example, news items or service listings). In your model you should explain:
 

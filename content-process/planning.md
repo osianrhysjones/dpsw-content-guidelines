@@ -9,9 +9,9 @@ Then you’ll know if you should:
 
 ## Get started:
 
-[Designing content for a new product or service](planning-to-create-the-right-content/designing-content-for-a-new-product-or-servicemd.md)
+[Designing content for a new product or service](planning-to-create-the-right-content/designing-content-for-a-new-product-or-service.md)
 
-[Creating new content in an existing format](planning-to-create-the-right-content/creating-new-content-in-an-existing-formatmd.md)
+[Creating new content in an existing format](planning-to-create-the-right-content/creating-new-content-in-an-existing-format.md)
 
 Types of bilingual support 
 
@@ -23,6 +23,6 @@ You don’t have to do all of these activities, of course. This is an indication
 
 ## Strategies
 
-[Content strategy](planning-to-create-the-right-content/content-strategymd.md)
+[Content strategy](planning-to-create-the-right-content/content-strategy.md)
 
-[Translation and bilingual design strategy](planning-to-create-the-right-content/translation-and-bilingual-design-strategymd.md)
+[Translation and bilingual design strategy](planning-to-create-the-right-content/translation-and-bilingual-design-strategy.md)

@@ -25,6 +25,6 @@ Users may:
 
 Check the following formats for writing the appropriate call to action:
 
-[Register for something](register-for-somethingmd.md) 
+[Register for something](register-for-something.md) 
 
-[Register your interest for something](register-your-interest-for-somethingmd.md)
+[Register your interest for something](register-your-interest-for-something.md)

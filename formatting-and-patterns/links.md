@@ -15,11 +15,11 @@ Descriptive link text helps:
 - users to are likely to scan the page
 
 > Bad example:
-> [Click here](legal-contentmd.md) to see information about bus passes
+> [Click here](legal-content.md) to see information about bus passes
 
 > Better examples:
-> for free travel on buses in Wales [apply for a bus pass online](linksmd.md)
-> [Apply for free bus pass](linksmd.md) to get free travel on buses in Wales
+> for free travel on buses in Wales [apply for a bus pass online](links.md)
+> [Apply for free bus pass](links.md) to get free travel on buses in Wales
 
 ## Further reading
 

@@ -29,7 +29,7 @@ Ideally, you should work alongside an interaction designer
 
 Use the CDPS staging site for:
 
-- higher-fidelity testing for content using [existing content types](../content-typesmd.md)
+- higher-fidelity testing for content using [existing content types](../content-types.md)
 - designing, testing and preparing new content types to go live
 
 You’ll need to work with an interaction designer and Alun Bowen when working on new content types.

@@ -2,15 +2,15 @@
 
 ## Principles
 
-[Writing for CDPS](writing-designing-and-pulishing-content/writing-for-cdpsmd.md)
+[Writing for CDPS](writing-designing-and-pulishing-content/writing-for-cdps.md)
 
-[How we design content at CDPS](writing-designing-and-pulishing-content/how-we-design-content-at-cdpsmd.md)
+[How we design content at CDPS](writing-designing-and-pulishing-content/how-we-design-content-at-cdps.md)
 
-[Plain language at CDPS](writing-designing-and-pulishing-content/plain-language-at-cdpsmd.md)
+[Plain language at CDPS](writing-designing-and-pulishing-content/plain-language-at-cdps.md)
 
 ## Working bilingually
 
-[Working with translators in projects and squads](writing-designing-and-pulishing-content/working-with-translators-in-projects-and-squadsmd.md)
+[Working with translators in projects and squads](writing-designing-and-pulishing-content/working-with-translators-in-projects-and-squads.md)
 
 Types of bilingual support 
 
@@ -22,7 +22,7 @@ You don’t have to do all of these activities, of course. This is an indication
 
 See also:
 
-[Prototyping content](writing-designing-and-pulishing-content/prototyping-contentmd.md)
+[Prototyping content](writing-designing-and-pulishing-content/prototyping-content.md)
 
 ---
 

@@ -84,6 +84,6 @@ Itâ€™s anything else which conveys information or meaning to service user. Whatâ
 
 ## Read next
 
-[How we design content at CDPS](writing-designing-and-pulishing-content/how-we-design-content-at-cdpsmd.md)
+[How we design content at CDPS](writing-designing-and-pulishing-content/how-we-design-content-at-cdps.md)
 
 A reading list about content design and strategy

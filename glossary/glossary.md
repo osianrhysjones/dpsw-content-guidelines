@@ -805,7 +805,7 @@ For describing the medium/method of viewing an event digitally or online.
 
 Verb
 
-Describing the act of transferring a [live stream](live-streammd.md).
+Describing the act of transferring a [live stream](live-stream.md).
 
 
 ---
@@ -1048,7 +1048,7 @@ Use and, not ampersand (&)
 
 ## See also:
 
-[Ampersands](../writing-designing-and-pulishing-content/content-formatting-and-patterns/ampersandsmd.md)
+[Ampersands](../writing-designing-and-pulishing-content/content-formatting-and-patterns/ampersands.md)
 
 
 ---
@@ -1291,7 +1291,7 @@ Not week-notes or week notes.
 
 With all of these words you can generally replace them by breaking the term into what you’re actually doing. Be open and specific.
 
-We use [plain English](../writing-designing-and-pulishing-content/writing-for-cdpsmd.md). Avoid these words and terms to make your writing clearer:
+We use [plain English](../writing-designing-and-pulishing-content/writing-for-cdps.md). Avoid these words and terms to make your writing clearer:
 
 - agenda (unless it’s for a meeting)
 - advancing

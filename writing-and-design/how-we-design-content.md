@@ -56,7 +56,7 @@ This means creating prototypes that start with content rather than visuals.
 
 This way, structure and messaging is built on user needs. And avoids content designers having to fill boxes that are already in place.
 
-See more about [how to prototype content](prototyping-contentmd.md).
+See more about [how to prototype content](prototyping-content.md).
 
 ## We support people and businesses to succeed
 
