@@ -4,8 +4,7 @@ Content strategy is how we a consistently high-quality service to your users thr
 
 ---
 
-> <img src="https://www.notion.so/icons/trumpet_gray.svg" alt="https://www.notion.so/icons/trumpet_gray.svg" width="40px" />
-> This page currently explains what a content strategy is and why it’s important. It is not the CDPS content strategy.
+This page currently explains what a content strategy is and why it’s important. It is not the CDPS content strategy.
 
 ## **Scope of a content strategy**
 
