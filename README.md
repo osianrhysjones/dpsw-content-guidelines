@@ -1,6 +1,6 @@
-# CDPS Content Guidelines
+# Content Guidelines for Digital Public Services Wales
 
-Welcome to the content guidelines for the **Centre for Digital Public Services (CDPS)**.
+These are the content guidelines for the Digital Public Services Wales (DPSW) is part of Welsh Government and was formerly known as  **Centre for Digital Public Services (CDPS)**.
 
 These guidelines help content designers, translators and other team members create
 consistent, clear and accessible content in English and Welsh.
